@@ -4,6 +4,7 @@ The goal is to farm Hercule statue dropped after level 30
 
 
 ## Make the script work
+Don't forget to turn auto battle on,
 Have python installed,
 Have pyautogui and time module installed,
 You need your dokkan battle screen to be in the center of your screen or use coordinates.py to change manually the coordinate of the starting button
