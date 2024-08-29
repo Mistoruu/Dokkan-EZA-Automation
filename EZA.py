@@ -47,4 +47,4 @@ while True:
     end_screen_location = wait_for_image('/Asset/EZA_END.PNG')
     click_image(end_screen_location)
 
-    print("Niveau Finished")
+    print("Level Finished")
